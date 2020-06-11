@@ -41,4 +41,4 @@
 #
 8. Follow the prompts in the command prompt or gitbash
 #
-## Note: If you get stuck watch the animated image
+## Note: If you get stuck watch the animated video
