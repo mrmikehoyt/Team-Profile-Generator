@@ -1,39 +1,40 @@
+### Team Profile Generator
+#
+![alt text](images/notetaker.JPG)
 
-![alt text](https://img.shields.io/badge/build-nodeJS-brightgreen)
-![alt text](https://avatars0.githubusercontent.com/u/58241324?v=4)
+## This is a simple note taking application. Where you click on get started. On the right hand side you want to enter a note title and note text. You than want to click on the save icon Click on the below Images which are also links that will take you to the application which is deployed on Heroku so you can try out the application. You might need to refresh the page but when you click on the note title on the left hand side your note will open. 
+##
+![alt text](images/video.gif)
 
-    ##Here is the github username mrmikehoyt
-  
-    
-    
-    #Here is the title  
-    Software Engineering Title Generator
-    ##Here is the description  
-        This application generates an html website of your software engineering team
-    ##Here is the table of contents 
-     1.Need to run app.js and answer specific questions about individual
-2.ensure html files for engineer, manager, and intern do not exist under
-templates. they will be generated
-    ##Here are the installation steps 
-    do a gitpull from https://mrmikehoyt.github.io/hw10 to download the project
-download and install node.js
-run node app.js
 
-    ##Here is the usage of the application 
-    As an Owner of a software engineering company. I needed away to see all
-my employees in the company and view there important information at a quick glance
 
-    ##Here is the license  
-    There is no license
-    ##Here is who helped  
-    Michael Hoyt
-    ##Here are the tests performed 
-    There were test.js file's and we ran different test.js scripts / snippets of
-code to test functionality and no errors were returned. 
-Please look at the gif file to view the tests and output of the code
-    ##Here are the questions  
-    I forgot to mention. Need to either type in engineer, intern, or manager
-for the role
-  
-     
-    
+## This application uses jQuery, nodeJS, HTML, CSS, as well as Heroku
+
+# Built with
+![alt_text](https://img.shields.io/badge/Technologies-jQuery-green)
+![alt_text](https://img.shields.io/badge/Technologies-nodeJS-green)
+![alt_text](https://img.shields.io/badge/Technologies-HTML-green)
+![alt_text](https://img.shields.io/badge/Technologies-CSS-green)
+![alt_text](https://img.shields.io/badge/Technologies-Heroku-green)
+
+## Prerequistes
+![alt_text](https://img.shields.io/badge/Required-VSCode-red)
+![alt_text](https://img.shields.io/badge/Required-nodeJS%20Compiler-red)
+
+## Instructions
+#
+1.  Download Visual Studio code from https://code.visualstudio.com/download 
+#
+2. Download nodeJS compiler from https://nodejs.org/en/download/current/
+#
+4. Install the software
+#
+5. do a clone with https and download the source code
+#
+6. do a npm install
+#
+7. Launch the command prompt or if you have gitbash installed launch gitbash
+#
+7. Run node server.js
+#
+8. Open your web browser and go to localhost:3000
